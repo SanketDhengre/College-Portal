@@ -11,4 +11,6 @@ Visit this project at: https://sanketdhengre.github.io/College-Portal/index.html
 
 ![image](https://user-images.githubusercontent.com/83276393/223545681-c81e58ee-ae66-479a-ab53-510d7cd60eed.png)
 
-![image](https://user-images.githubusercontent.com/83276393/223545759-04487306-4162-403c-bc08-efe32766aa2a.png)
+![image](https://user-images.githubusercontent.com/83276393/223546346-8669164c-0ca6-482b-9609-d3ec42fd8937.png)
+
+
