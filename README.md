@@ -1,6 +1,6 @@
 # College-Portal
 
-## Visit this project at: https://sanketdhengre.github.io/College-Portal/
+### Visit this project at: https://sanketdhengre.github.io/College-Portal/
 
 
 ![image](https://user-images.githubusercontent.com/83276393/223545323-c8f786ea-75d6-4911-a10f-be0b099597da.png)
